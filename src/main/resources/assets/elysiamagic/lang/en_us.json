@@ -1,0 +1,10 @@
+{
+  "item.elysiamagic.magic_staff": "Magic Staff",
+
+  "item.elysiamagic.fire_spell": "Fire Spell I",
+  "item.elysiamagic.lightning_spell": "Lightning Spell I",
+  "item.elysiamagic.teleport_spell": "Teleport Spell I",
+  "item.elysiamagic.speed_spell": "Speed Spell I",
+
+  "itemgroup.elysiamagic.items": "ElysiaMagic"
+}
